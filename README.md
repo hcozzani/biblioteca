@@ -1,4 +1,4 @@
-# biblioteca_py
+# Biblioteca (Python - Qt - Mongo Db - UML)
 ## Trabajo Practico para la materia Programacion 3 de la carrera Tecnicatura Superior en Analisis de Sistemas.
 
 - El proyecto se realizo pensando en una Biblioteca donde el empleado pueda hacer el Alta, baja y modificacion de ejemplares y clientes,
